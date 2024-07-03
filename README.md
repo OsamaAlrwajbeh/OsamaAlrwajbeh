@@ -30,5 +30,5 @@ Back-End Development
 
 # stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaAlrwajbeh&hide=contribs,prs)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaAlrwajbeh&hide=contribs,prs)
 
